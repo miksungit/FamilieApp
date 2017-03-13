@@ -13,7 +13,7 @@
         android:drawablePadding="7dp"
         android:gravity="center_vertical"
         android:hint="@string/weekplan"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <TextView
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
         android:drawablePadding="7dp"
         android:gravity="center_vertical"
         android:hint="@string/monthplan"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <TextView
         android:id="@+id/tv_groceries"
@@ -32,7 +32,7 @@
         android:drawablePadding="7dp"
         android:gravity="center_vertical"
         android:hint="@string/groceries"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <TextView
         android:layout_width="match_parent"
@@ -41,7 +41,7 @@
         android:drawablePadding="7dp"
         android:gravity="center_vertical"
         android:hint="@string/dinner"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <TextView
         android:layout_width="match_parent"
@@ -50,16 +50,16 @@
         android:drawablePadding="7dp"
         android:gravity="center_vertical"
         android:hint="@string/messages"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:drawableLeft="@drawable/ic_format_list_bulleted_black_24dp"
+        android:drawableLeft="@drawable/ic_cloud_black_24dp"
         android:drawablePadding="7dp"
         android:gravity="center_vertical"
-        android:hint="@string/wishlist"
-        android:textSize="40dp" />
+        android:hint="@string/cloud"
+        android:textSize="40sp" />
 
     <TextView
         android:layout_width="match_parent"
@@ -68,6 +68,24 @@
         android:drawablePadding="7dp"
         android:gravity="center_vertical"
         android:hint="@string/allowance"
-        android:textSize="40dp" />
+        android:textSize="40sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_format_list_bulleted_black_24dp"
+        android:drawablePadding="7dp"
+        android:gravity="center_vertical"
+        android:hint="@string/wishlist"
+        android:textSize="40sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_wb_sunny_black_24dp"
+        android:drawablePadding="7dp"
+        android:gravity="center_vertical"
+        android:hint="@string/vacation"
+        android:textSize="40sp" />
 
 </LinearLayout>
