@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FamilieApp</string>
+    <string name="weekplan">Weekly Plan</string>
+    <string name="monthplan">Monthly Plan</string>
+    <string name="groceries">Groceries</string>
+    <string name="dinner">Dinner</string>
+    <string name="messages">Messages</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="allowance">Allowance</string>
 </resources>
